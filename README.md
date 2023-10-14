@@ -10,3 +10,5 @@ Testing endeavors that this CG is in dialogue with and can answer questions abou
 1. TBD
 
 Meeting minutes (and where applicable, recordings) can be found in `/meetings/`. 
+
+This repository is primarily administrative and issues can be opened here by anyone interested in how to get involved, tracking progress in or between repos that this group tracks, and interoperability.  Please open spec-interpretation issues on the relevant specs.
